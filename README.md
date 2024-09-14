@@ -15,21 +15,9 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 
 
 ## 📊EDA ##
-### 1. Yearly Analysis ###
-image
+Image 
 
-## 📌 We can see that 2009 has then highest number of bird strike incidents.
-
-## 2. Bird Strikes in US ##
-image
-
-### 📌 California, Texas and Florida has the highest number of bird strike incidents. ###
-
-
-## 3. When do most bird strikes occur? ##
-image
-
-### 📌 Most of the incidents have happened when there is no cloud in each year ###
+Image
 
 ## Conclusion ##
 1. Mumbai leads in revenue generation(39.13%), followed by Bangalore, Hyderabad and Delhi.
