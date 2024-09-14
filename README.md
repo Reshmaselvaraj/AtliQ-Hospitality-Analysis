@@ -15,9 +15,14 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 
 
 ## 📊EDA ##
-Image 
 
-Image
+![Dashboard 1](https://github.com/user-attachments/assets/d4a7b7c6-f29f-47d7-937f-8f06c4b5bb0c)
+
+
+![Dashboard 2](https://github.com/user-attachments/assets/fb42bb8b-a2c5-429f-8748-b4636fc325ad)
+
+
+
 
 ## Conclusion ##
 1. Mumbai leads in revenue generation(39.13%), followed by Bangalore, Hyderabad and Delhi.
